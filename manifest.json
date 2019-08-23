@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "saveIS",
+  "author": "Ernest",
+  "description": "Save current URL as old plain Internet Shortcut file (.url).",
+  "homepage_url": "https://addons.mozilla.org/en-US/firefox/addon/saveIS/",
+  "version": "0.0.3",
+  "icons": {
+    "32": "icons/saveIS.svg",
+    "48": "icons/saveIS.svg",
+    "64": "icons/saveIS.svg",
+    "96": "icons/saveIS.svg",
+    "128": "icons/saveIS.svg"
+  },
+  "background": {
+    "scripts": [
+      "browser-polyfill.js",
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "downloads",
+    "tabs"
+  ],
+  "commands": {
+    "main-action": {
+      "suggested_key": { "default": "Ctrl+Shift+F12" },
+      "description": "Send an event to the extension"
+    }
+  }
+}
