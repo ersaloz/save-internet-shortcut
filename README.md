@@ -14,11 +14,11 @@ Default save folder is ~/Downloads, but you can navigate from here.
 
 Draws upon extensions with similar aim, now defunct and/or encumbered with extra functionality:
 
-SaveLink [https://legacycollector.org/firefox-addons/14019/index.html] --obsolete as of 2019-08-20
+SaveLink [https://legacycollector.org/firefox-addons/14019/index.html] -- 2019-08-20 obsolete.
 
-SaveAsURL [https://addons.mozilla.org/en-US/firefox/addon/saveasurl/] --also saves a screenshot; as of 2019-08-20 not up to Firefox stable
+SaveAsURL [https://addons.mozilla.org/en-US/firefox/addon/saveasurl/] -- also saves a screenshot; 2019-08-20 not up to Firefox stable.
 
 ## Status
 
-Not yet mature to go public. By now, just for private use.
+Mature to go public.
 

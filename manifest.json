@@ -4,7 +4,7 @@
   "author": "Ernest",
   "description": "Save current URL as old plain Internet Shortcut file (.url).",
   "homepage_url": "https://addons.mozilla.org/en-US/firefox/addon/saveIS/",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "icons": {
     "32": "icons/saveIS.svg",
     "48": "icons/saveIS.svg",
